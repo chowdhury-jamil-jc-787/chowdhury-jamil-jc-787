@@ -24,8 +24,4 @@ Skills:  REACT / JS / HTML / CSS/BOOTSTRAP/PHP/LARAVEL/PYTHON/DJANGO
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/chowdhury-jamil-jc-787)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/chowdhury-jamil-jc-787)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/chowdhury-jamil-jc-787)  
-
 ![Profile views](https://gpvc.arturio.dev/https://github.com/chowdhury-jamil-jc-787)  
